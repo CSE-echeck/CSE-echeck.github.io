@@ -7,3 +7,16 @@ h1 {
     text-align: center;
 
 }
+
+
+.projects { 
+    display:flex; 
+    flex-wrap:wrap; 
+}
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: #A067A0; /* pick a color */
+border-radius: 25%;
+}
